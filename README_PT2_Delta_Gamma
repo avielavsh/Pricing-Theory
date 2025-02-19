@@ -1,0 +1,48 @@
+# Project: Delta and Gamma Hedging for European Call Options
+
+## Overview
+This project analyzes **European call options**, focusing on **Delta and Gamma hedging** techniques. It implements Monte Carlo simulations to estimate option sensitivities and evaluate risk management strategies under different market conditions.
+
+## Features
+- **Delta and Gamma Hedging Analysis:** Evaluates hedging effectiveness using derivatives.
+- **Monte Carlo Simulations:** Models underlying asset price dynamics.
+- **Sensitivity Analysis:** Measures Delta and Gamma changes in response to market movements.
+- **Risk Management Strategies:** Examines hedging performance in various scenarios.
+
+## Methodology
+1. **Define Model Parameters:**
+   - Establish financial variables for European call option pricing.
+   
+2. **Compute Delta and Gamma Sensitivities:**
+   - Evaluate how option prices change with respect to the underlying asset.
+   
+3. **Simulate Asset Price Movements:**
+   - Use Monte Carlo methods to model price paths.
+   
+4. **Implement Delta and Gamma Hedging Strategies:**
+   - Assess risk mitigation effectiveness.
+   
+5. **Analyze Performance Under Market Fluctuations:**
+   - Compare hedging efficiency under different volatility scenarios.
+
+## Results
+- Provides insights into Delta and Gamma behavior for European call options.
+- Demonstrates effectiveness of hedging strategies.
+- Visualizes option price sensitivity and risk management performance.
+
+## Dependencies
+- Python with NumPy, SciPy, and Matplotlib.
+- Jupyter Notebook for executing simulations and analysis.
+
+## Usage
+Run the Jupyter Notebook to:
+- Define model parameters.
+- Simulate asset price movements and option sensitivities.
+- Evaluate Delta and Gamma hedging strategies.
+
+## Author
+Aviel Avshalumov
+
+## License
+This project is licensed under the MIT License.
+
